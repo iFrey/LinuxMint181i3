@@ -9,7 +9,7 @@ set -e
 
 sh applications/install-sublime-text-v1.sh
 
-sh applications/install-spotify-v2.sh
+#sh applications/install-spotify-v2.sh
 
 sh applications/install-variety-v1.sh
 
